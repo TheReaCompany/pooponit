@@ -1,0 +1,3 @@
+RewriteEngine on
+Options -Indexes +multiviews
+AuthUserFile "/home/firefall/.htpasswds/public_html/dev/_scott/passwd"

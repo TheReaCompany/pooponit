@@ -1,0 +1,19 @@
+/* BEGIN: General Styles */
+body {
+	padding-bottom: 30px; /* Height of Footer */
+}
+/* END: General Styles */
+
+/* BEGIN: Overlay */
+div#overlay {
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='/images/example.png');
+	background-image: none;
+}
+/* END: Overlay */
+
+/* BEGIN: Body */
+div#body {
+	width: 100%;
+	height: 100%;
+}
+/* END: Body */
